@@ -1,0 +1,33 @@
+{
+  "settings": {
+    "galleryFit": "contain",
+    "carouselFit": "contain",
+    "position": "50% 50%"
+  },
+  "photos": [
+    {
+      "filename": "images/shane_chiburi.jpg",
+      "title": "Chiburi",
+      "alt": "Shane performing chiburi",
+      "description": "Sensei Shane performing chiburi, Rockhampton c.2012"
+    },
+    {
+      "filename": "images/randel4thdan.jpg",
+      "title": "Sensei Randel's 4th Dan",
+      "alt": "Sensei Randel's 4th Dan",
+      "description": "Sensei Randel being presented with his 4th Dan certificate by Shihan Alf and Shihan Dave Millar c.2017"
+    },   
+    {
+      "filename": "images/shane_shodan.jpg",
+      "title": "Sensei Shane's Shodan",
+      "alt": "Sensei Shane receiving his black belt",
+      "description": "Sensei Shane receiving his black belt from Shihan Alf.  Also in attendance here are Renshi Ted Howlett, Sensei Phil Sheedy, Sensei Matt Howlett.  C.1998"
+    },
+    {
+      "filename": "images/shane_japantraining.jpg",
+      "title": "Shane Japan Training",
+      "alt": "Training in Kyoto",
+      "description": "Shane attending Iaido training in Kyoto"
+    }
+  ]
+}
